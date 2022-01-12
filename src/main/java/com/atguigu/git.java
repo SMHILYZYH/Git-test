@@ -15,5 +15,6 @@ public class git {
         System.out.println("master test");
         System.out.println("hof-fix test!");
         System.out.println("push git test");
+        System.out.println("pull git test");
     }
 }
